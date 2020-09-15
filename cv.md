@@ -1,4 +1,4 @@
-# rsschool-cv #
+# CV #
 1. Pavel Urbanovich.
 2. *e-mail:* <yrbik@mail.ru>, *phone:* +37544-700-3031.
 3. I am self-organized and very motivated to become a front-end developer I learn HTML, CSS, JS on <https://ru.code-basics.com/>, <https://htmlacademy.ru/study> and also doing tasks on <https://www.codewars.com> everyday. I'm ver interested in this course and job in future.
