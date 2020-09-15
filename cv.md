@@ -5,3 +5,4 @@
 4. **Skills:** Git, HTML, CSS, JS basics.
 5. **Code example:** will soon be.
 6. **Projects:** will soon be.
+7. **Education** I graduated from the Command Engineering Institute of the Ministry of Emergency Situations of the Republic of Belarus. 
