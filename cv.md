@@ -4,3 +4,4 @@
 3. I am self-organized and very motivated to become a front-end developer I learn HTML, CSS, JS on <https://ru.code-basics.com/>, <https://htmlacademy.ru/study> and also doing tasks on <https://www.codewars.com> everyday. I'm ver interested in this course and job in future.
 4. **Skills:** Git, HTML, CSS, JS basics.
 5. **Code example:** will soon be.
+6. **Projects:** will soon be.
