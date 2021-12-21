@@ -17,3 +17,47 @@ I am self-organized and very motivated to become a good frontend developer. I le
 I study and also doing tasks on [codewars.com](https://www.codewars.com) everyday.
 
 I am very hardworking.
+First I want to gain experience as Junior Developer. I like to make sure that my work is perfect, so I tend to perhaps spend a little too much time checking it.
+### **Contacts**
+- urbanovich86gmail.com
+- [+375447003031](tel:+375447003031)
+## **Skills**
+HyperText Markup Language
+Cascading Style Sheets
+JavaScript
+## **Experience**
+### **Courses**
+- JS/Front-end 2020Q3
+- JavaScript/Front-end Pre-School
+- JS/Front-end 2021Q3
+### **Code example**
+#### [**Multiples of 3 or 5**](https://www.codewars.com/kata/514b92a657cdc65150000006)
+
+```
+function getNumber(number) {
+if (number < 0) {
+    return 0;
+        } else {
+        let sum = 0;
+            for (let i = 1; i < number; i++) {
+                if (i % 5 === 0 || i % 3 === 0) {
+                    sum += i;
+                }
+            } return sum;
+        }
+}
+``` 
+
+
+#### [**Array Deep Count**](https://www.codewars.com/kata/596f72bbe7cd7296d1000029)
+
+```
+function getCount(a) {
+let result = a.length;
+    for (let i = 0; i < a.length; i++) {
+        if (Array.isArray(a[i])) {
+            result += deepCount(a[i]);
+            }
+        } return result;
+}
+```
