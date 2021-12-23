@@ -110,6 +110,55 @@
                 </div>
             </div>
         </section>
+        <section id="code" class="experience">
+            <div class="wrapper">
+                <div class="description">
+                    <h2>Experience</h2>
+                    <div class="info">
+                        <h3>Courses</h3>
+                            <ul class="courses">
+                                <li>
+                                    <p>JS/Front-end 2020Q3</p>
+                                </li>
+                                <li>
+                                    <p>JavaScript/Pre-School</p>
+                                </li>
+                                <li>
+                                    <p>JS/Front-end 2021Q3</p>
+                                </li>
+                            </ul>
+                        <h3>Code example</h3>
+                        <h4><a href="https://www.codewars.com/kata/514b92a657cdc65150000006">Multiples of 3 or 5</a></h4>
+                            <code>
+                                function getNumber(number) {<br>
+                                    &ensp;if (number &lt; 0) {<br>
+                                        &ensp; &ensp; return 0;<br>
+                                        &ensp;} else {<br>
+                                            &ensp; &ensp; let sum = 0;<br>
+                                            &ensp; &ensp; for (let i = 1; i &lt; number; i++) {<br>
+                                            &ensp; &ensp; &ensp; if (i % 5 === 0 || i % 3 === 0) {<br>
+                                                &ensp; &ensp; &ensp; sum += i;<br>
+                                                &ensp; &ensp; &ensp;}<br>
+                                            &ensp; } return sum;<br>
+                                            &ensp;}<br> 
+                                }  
+                                </code>
+                        <h4><a href="https://www.codewars.com/kata/596f72bbe7cd7296d1000029">Array Deep Count</a></h4>
+                            <code>
+                                function getCount(a) {<br>
+                                    &ensp; let result = a.length;<br>
+                                    &ensp; for (let i = 0; i &lt; a.length; i++) {<br>
+                                        &ensp; &ensp; if (Array.isArray(a[i])) {<br>
+                                            &ensp; &ensp; result += deepCount(a[i]);<br>
+                                            &ensp; &ensp;}<br>
+                                            &ensp;} 
+                                    return result;<br>
+                                }
+                            </code> 
+                    </div>  
+                </div>
+            </div>
+        </section>
     </main>        
 </body>
 </html>      
