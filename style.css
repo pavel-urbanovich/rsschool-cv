@@ -79,7 +79,7 @@ body {
 a {
     text-decoration: none;
     list-style-type: none;
-    color: #d3bdac;
+    color: #7e6a5b;
     cursor: pointer;
     opacity: 0.7;
 }
@@ -168,7 +168,9 @@ p {
 }
 
 .contacts li a {
-    color: #d1c0b3;;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #7e6a5b;
 }
 
 .contacts li a:first-child:hover {
@@ -180,9 +182,8 @@ p {
 
 .contacts li a:nth-child(2):hover {
     color: #666666;
-    text-decoration: underline;
     opacity: 1;
-    transition: all 1s ease-in;
+    transition: 1s ease-in-out;
 }
 
 .link {
@@ -236,31 +237,35 @@ code {
 .sub-education {
     padding-left: 7.18rem;
 }
-/* Пересмотреть ниже */
+
+.languages-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    max-width: 529px;
+}
+
+.languages-info {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+
 .sub-info {
+    margin-top: 15px;
     max-width: 7.81rem;
     max-height: 6.87rem;
     font-size: 2.25rem;
     text-align: center;
-    margin-top: 15px;
     color:  #7e6a5b;
 }
+
 .sub-info:hover {
+    border-radius: 50px;
+    box-shadow: 0 0 14px #666;
     color: #8d8888;
     cursor: pointer;
-    box-shadow: 0 0 14px #666;
-    transition: all 1s;
-    border-radius: 50px;
-    
+    transition: all 0.7s ease-in-out;
 }
-.info-lang {
-    display: flex;
-    justify-content: space-between;
-    max-width: 529px;
-    margin: 0;
-}
-.languages-info {
-    font-size: 24px;
-    font-weight: bold;
-    text-align: center;
-}
+
+
