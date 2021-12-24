@@ -214,11 +214,16 @@ p {
 
 code {
     display: block;
+    padding-left: 15px;
     background-color: #f0f0f0;
 }
 
 .project-link {
     width: 50%;
+    opacity: 1;
+}
+figure a {
+    opacity: 1;
 }
 
 .logo-education {
@@ -266,6 +271,39 @@ code {
     color: #8d8888;
     cursor: pointer;
     transition: all 0.7s ease-in-out;
+}
+
+.footer {
+    height: 6.25rem;
+    background-color: #343536; 
+}
+
+.footer-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 80%;
+    height: inherit;
+    align-items: center;
+}
+
+.footer-info, .footer-home, details, summary {
+    color: #eadcd1; 
+    font-size: 1.375rem;
+}
+.home-link {
+    display: block;
+    font-weight: 700;
+    color: #eadcd1;
+    opacity: 1;
+    
+}
+
+.logo-footer {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5%;
+    box-shadow: 0 0 7px #666;
 }
 
 
