@@ -371,6 +371,14 @@ summary {
     .photo {
         width: 50%;
     }
+    .about, 
+    .skills,
+    .experience,
+    .projects,
+    .education,
+    .languages {
+        padding: 0.31rem 0 0.31rem 0;
+    }
 }
 
 @media(max-width: 460px) {
@@ -392,14 +400,7 @@ summary {
     h5, p, code {
         font-size: 0.75rem;
     }
-    .about, 
-    .skills,
-    .experience,
-    .projects,
-    .education,
-    .languages {
-        padding: 0.31rem 0 0.31rem 0;
-    }
+    
     .contacts li a {
         font-size: 1rem;
     }
