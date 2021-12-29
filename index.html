@@ -147,7 +147,7 @@
                                     &ensp; let result = a.length;<br>
                                     &ensp; for (let i = 0; i &lt; a.length; i++) {<br>
                                         &ensp; &ensp; if (Array.isArray(a[i])) {<br>
-                                            &ensp; &ensp; result += deepCount(a[i]);<br>
+                                            &ensp; &ensp; result += getCount(a[i]);<br>
                                             &ensp; &ensp;}<br>
                                             &ensp;} 
                                     return result;<br>
