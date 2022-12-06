@@ -10,14 +10,14 @@
 
 ![Photo](photo.png "Фото Урбанович Павел")
 ## **About Me**
-I am 35 years old. I live in Minsk.
+I am 36 years old. I live in Minsk.
 
-I am self-organized and very motivated to become a good frontend developer. I learn HTML, CSS, JS on [learn.javascript.ru](https://learn.javascript.ru/), [htmlacademy.ru](https://htmlacademy.ru)
+Speaking about my personality I should say that I am definitely hardworking.
 
-I study and also doing tasks on [codewars.com](https://www.codewars.com) everyday.
+I am totally reliable and I always do my work properly and on time. I have a strong passion for knowledge as I am eager to constantly develop my skills.
 
-I am very hardworking.
-First I want to gain experience as Junior Developer. I like to make sure that my work is perfect, so I tend to perhaps spend a little too much time checking it.
+I am very creative at solving tasks- which I see as challenges on my way to success.
+I always search for more efficient solutions to my tasks. I am good at planning things and personally I am a great teammate.
 ### **Contacts**
 - urbanovich86gmail.com
 - [+375447003031](tel:+375447003031)
@@ -46,7 +46,7 @@ if (number < 0) {
             } return sum;
         }
 }
-``` 
+```
 
 
 #### [**Array Deep Count**](https://www.codewars.com/kata/596f72bbe7cd7296d1000029)
@@ -62,26 +62,31 @@ let result = a.length;
 }
 ```
 ## **Projects**
-### [**Project "Museum"**](https://pavel-urbanovich.github.io/My_project/)
+### [**Shelter**](https://rolling-scopes-school.github.io/pavel-urbanovich-JSFE2022Q1/shelter/pages/main/)
+### [**Virtual-keyboard**](https://pavel-urbanovich.github.io/virtual-keyboard/)
+### [**Portfolio**](https://rolling-scopes-school.github.io/pavel-urbanovich-JSFEPRESCHOOL/portfolio/)
+### [**Eco-sounds**](https://rolling-scopes-school.github.io/pavel-urbanovich-JSFEPRESCHOOL/eco-sounds/)
+### [**Image-gallery**](https://rolling-scopes-school.github.io/pavel-urbanovich-JSFEPRESCHOOL/image-galery/)
+### [**Memory-game**](https://rolling-scopes-school.github.io/pavel-urbanovich-JSFEPRESCHOOL/memory-game/)
 ## **Education**
 ### [**Command and Engineering Institute of the Ministry of Emergency Situations of the Republic of Belarus**](https://ucp.by/)
 ##### **2004 -2007 Engineering faculty**
 ##### **2009 -2011 Command faculty**
 ##### **2012 -2013 Security engineering of construction objects**
 ## **Languages**
-Russian 
+Russian
 
 Native
 
-English 
+English
 
 A2
 
-German 
+German
 
 A1
 
-Copyright © 2021
+Copyright © 2022
 
 Design by  [Pavel Urbanovich   ](https://github.com/pavel-urbanovich)
 
